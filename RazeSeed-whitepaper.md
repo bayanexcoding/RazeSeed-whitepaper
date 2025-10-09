@@ -1,4 +1,4 @@
-# RAZESEED Full Platform Whitepaper & Tokenomics (Draft v1.0)
+# RAZESEED Full Platform Whitepaper & Tokenomics (Draft v1.1)
 
 **RazeSEED** — funding reimagined with AI, blockchain, and resilient economics  
 **Protocol**: RAZE Protocol (Resilient AI Zero-Loss Ecosystem)  
@@ -235,7 +235,7 @@ These are models; real gains depend on usage, adoption, liquidity.
 
 | Phase | Timeframe | Focus Areas |
 |-------|-----------|-------------|
-| Phase 1 | Q4 2025 | Platform MVP, AI demo, early adopters |
+| Phase 1 | Q1 2026 | Platform MVP, AI demo, early adopters |
 | Phase 2 | Q1–Q2 2026 | RAZE Protocol integration, token listing, pilot projects |
 | Phase 3 | Q3–Q4 2026 | Crowdfunding module, mobile app, global events |
 | Phase 4 | 2027+ | DAO governance, advanced AI features, scaling |
