@@ -30,7 +30,7 @@ It transforms RazeSEED into a **risk-hedged, AI-driven funding protocol** unlike
 The Hybrid Hedge Pool is funded exclusively by **real platform revenue**, ensuring long-term sustainability.
 
 ### 3.1 Subscription Revenue (Primary Source)  
-All monthly subscription plans ($200–$1000) contribute to the hedge stablecoin pool.
+All monthly subscription plans ($100–$1000) contribute to the hedge stablecoin pool.
 
 Recommended allocation:  
 - **30–40% → Hedge Pool (Stablecoins)**  
@@ -115,13 +115,13 @@ This ensures that even in failure, the investor retains safety and future upside
 tokensMinted = investmentUSD * 6
 
 ### 7.2 Burn Calculations  
-investorBurn = tokensMinted * (0.10–0.15)
-treasuryBurn = tokensMinted * (0.10–0.20)
+investorBurn = tokensMinted * (0.10–0.15), 
+treasuryBurn = tokensMinted * (0.10–0.20), 
 unlockBurn = remainingTokens * 0.05
 
 ### 7.3 Hedge Refunds  
-stableRefund = investmentUSD * 0.40
-tokenRefundValue = investmentUSD * 0.30
+stableRefund = investmentUSD * 0.40, 
+tokenRefundValue = investmentUSD * 0.30, 
 tokenRefundAmount = tokenRefundValue / tokenPriceAtFailure
 
 ### 7.4 Final Guarantee  
